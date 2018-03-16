@@ -5,4 +5,4 @@ cache: pip
 install:
   - pip install -r requirements.txt
 script:
-  - python fc_train.py
+  - python inception-TL/fc_train.py
