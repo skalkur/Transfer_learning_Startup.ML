@@ -5,4 +5,4 @@ cache: pip
 install:
   - pip install -r requirements.txt
 script:
-  - python extract_graph.py
+  - python inception-TL/extract_graph.py
